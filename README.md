@@ -1,8 +1,9 @@
 [![Braydon's GitHub Banner](https://as2.ftcdn.net/v2/jpg/05/02/05/55/1000_F_502055552_pVOQlTlPinx8W5j1RpTsjOMlVKlNZBgf.jpg)](https://Milansaji.io)
 
 <h1 align="center">Hi 👋, I'm MILAN SAJI</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<image align ="center" alt="flutter" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fflutter&psig=AOvVaw2zcOWHFCLiXFkUabYPPdJS&ust=1696443450682000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICth7y-2oEDFQAAAAAdAAAAABAE"
+<h3 ![1_5-aoK8IBmXve5whBQM90GA](https://github.com/Milansaji/Milansaji/assets/140674058/2f72fc70-16fa-4107-b89c-c707db3feed2)
+align="center">A passionate  developer from India</h3>
+
 
 
 - 🔭 I’m currently working on **Expense tracker(flutter project)**
