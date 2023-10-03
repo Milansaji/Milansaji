@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MILAN SAJI</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<image align ="center" alt="flutter" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F61656764%2Fhow-to-rotate-a-widget-in-flutter&psig=AOvVaw1PvAUHoiBSPJKaVu1Ei2M2&ust=1696443241412000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiyv9i92oEDFQAAAAAdAAAAABAX"
+<image align ="center" alt="flutter" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fflutter&psig=AOvVaw2zcOWHFCLiXFkUabYPPdJS&ust=1696443450682000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICth7y-2oEDFQAAAAAdAAAAABAE"
 
 
 - 🔭 I’m currently working on **Expense tracker(flutter project)**
