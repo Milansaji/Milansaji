@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MILAN SAJI</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<image align ="center" alt="python" width=400 src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47fx70qn63lc8jln7o3mh8v2ocgai9udb29jw7wd4r&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<image align ="center" alt="flutter" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F17034874-Flutter-The-One-Technology-to-Create-the-App-of-Your-Vision%2Fattachments%2F12118831%3Fmode%3Dmedia&psig=AOvVaw1PvAUHoiBSPJKaVu1Ei2M2&ust=1696443241412000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiyv9i92oEDFQAAAAAdAAAAABAE"
 
 
 - 🔭 I’m currently working on **Expense tracker(flutter project)**
