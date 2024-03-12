@@ -6,7 +6,7 @@ align="center">A passionate  developer from India</h3>
 
 
 
-- 🔭 I’m currently working on **Firebase tutorial (flutter project)**
+- 🔭 I’m currently working on *CEK NEWS (flutter project)**
 
 - 🌱 I’m currently learning **flutter, dart, computer science**
 
