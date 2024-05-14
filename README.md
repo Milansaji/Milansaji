@@ -6,9 +6,9 @@ align="center">A passionate  developer from India</h3>
 
 
 
-- 🔭 I’m currently working on *CEK NEWS (flutter project)**
 
-- 🌱 I’m currently learning **flutter, dart, computer science**
+
+- 🌱 I’m currently learning **blockchain, solidity, computer science**
 
 - 💬 Ask me about **app development**
 
