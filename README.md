@@ -8,7 +8,7 @@ align="center">A passionate  developer from India</h3>
 
 
 
-- 🌱 I’m currently learning **blockchain, solidity, computer science**
+- 🌱 I’m currently learning **C#,.NET, computer science**
 
 - 💬 Ask me about **app development**
 
