@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **app development**
 
-- 📫 How to reach me **milansaji345@gmail.com**
+- 📫 How to reach me **milansaj47@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
